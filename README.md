@@ -4,7 +4,7 @@ Binary-level reverse engineering of the Apple Watch's health algorithms, from
 publicly downloadable watchOS 27.0.1 firmware. No exploits, no hardware, no
 accounts — just public firmware images, open tooling, and a lot of `strings`.
 
-**Read the writeup: [writeup/index.md](writeup/index.md)**
+**Read the writeup: [docs/index.md](docs/index.md)**
 
 ## Headline findings
 
@@ -25,7 +25,7 @@ accounts — just public firmware images, open tooling, and a lot of `strings`.
 
 | Path | Contents |
 |---|---|
-| `writeup/index.md` | The full writeup (blog-post form) |
+| `docs/index.md` | The full writeup (blog-post form) |
 | `tools/espresso_dump.py` | Architecture decoder for compiled CoreML bundles (stdlib-only Python) |
 | `tools/REPRODUCE.md` | Exact command trail, from firmware download to class-dumps |
 | `data/codenames.md` | Codename registry with evidence |

@@ -199,7 +199,7 @@ ipsw mount fs Watch7,1_27.0.1_24R365_Restore.ipsw
 ```
 
 Model decoding is a hundred lines of Python against the espresso JSON — script in
-[this repo](../tools/espresso_dump.py).
+[this repo](https://github.com/jayasuryajsk/apple-watch-health-re/blob/main/tools/espresso_dump.py).
 
 ## Thanks and threads
 
